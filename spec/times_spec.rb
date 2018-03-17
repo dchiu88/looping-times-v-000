@@ -10,5 +10,5 @@ describe "#using_times" do
 end
 
 7.times do
-	puts looping_string
+	using_times
 end
