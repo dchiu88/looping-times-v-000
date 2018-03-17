@@ -9,6 +9,7 @@ describe "#using_times" do
 	end
 end
 
-7.times do
-	using_times
-end
+def using_times
+	7.times do
+		puts "Winggardium Leviosa"
+	end
